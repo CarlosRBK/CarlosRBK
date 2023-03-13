@@ -16,7 +16,6 @@ Soy estudiante de administración de empresas y desarrollador Full Stack MERN, c
 ![9](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![4](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![10](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![11](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
 
 ## ⚒️ My projects:
 - [Control de gastos para empresa de encomiendas](https://github.com/CarlosRBK/control-gastos) 
