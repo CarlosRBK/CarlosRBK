@@ -18,7 +18,7 @@ Soy estudiante de administración de empresas y desarrollador Full Stack MERN, c
 ![10](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 ## ⚒️ My projects:
-- [Pagina Web de comercion con bot de Whasapp para atención al cliente](https://github.com/CarlosRBK/Commerce-website-with-whatsapp-bot)
+- [Página Web de comercion con bot de Whasapp para atención al cliente](https://github.com/CarlosRBK/Commerce-website-with-whatsapp-bot)
 - [Control de gastos para empresa de encomiendas](https://github.com/CarlosRBK/control-gastos) 
 - [CRUD-Productos](https://github.com/CarlosRBK/BID-admin-productos) 
 - [typingGame](https://carlosrbk.github.io/typingGame/) 
