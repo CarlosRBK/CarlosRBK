@@ -1,5 +1,3 @@
-## Hi, I’m Carlos Benitez 👋
-
 Soy estudiante de administración de empresas y desarrollador Full Stack MERN, con manejo de Javascript, HTML, CSS, React, Express, MongoDB y Node. Durante mi experiencia e desarrollado mi capacidad de resolución de problemas, capacidad de escucha y apertura al aprendizaje, lo cual me permite desempeñarme de manera eficaz. Estoy interesado en continuar desarrollando mi carrera específicamente en el área IT especialmente en el desarrollo Frontend.
 
 ## :computer: Some technologies I use:
@@ -16,15 +14,4 @@ Soy estudiante de administración de empresas y desarrollador Full Stack MERN, c
 ![9](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![4](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![10](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-
-## ⚒️ My projects:
-- [Página Web de comercion con bot de Whasapp para atención al cliente](https://github.com/CarlosRBK/Commerce-website-with-whatsapp-bot)
-- [Control de gastos para empresa de encomiendas](https://github.com/CarlosRBK/control-gastos) 
-- [CRUD-Productos](https://github.com/CarlosRBK/BID-admin-productos) 
-- [typingGame](https://carlosrbk.github.io/typingGame/) 
-
-## :seedling: Anything else
-- 💡 Now I'm learning English.
-- 👀 I am interested in any Frontend technology
-
 
