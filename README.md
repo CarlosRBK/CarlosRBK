@@ -1,1 +1,1 @@
-Desarrollador Full Stack MERN, con manejo de Javascript, HTML, CSS, React, Vue, Express, MongoDB y Node. Durante mi experiencia e desarrollado mi capacidad de resolución de problemas, capacidad de escucha y apertura al aprendizaje, lo cual me permite desempeñarme de manera eficaz.
+Desarrollador Full Stack, con manejo de Javascript, HTML, CSS, React, Vue, Express, MongoDB y Node. Durante mi experiencia e desarrollado mi capacidad de resolución de problemas, capacidad de escucha y apertura al aprendizaje, lo cual me permite desempeñarme de manera eficaz.
